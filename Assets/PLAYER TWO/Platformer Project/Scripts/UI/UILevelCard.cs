@@ -25,7 +25,6 @@ namespace PLAYERTWO.PlatformerProject
 			set
 			{
 				m_locked = value;
-				play.interactable = !m_locked;
 			}
 		}
 
@@ -56,6 +55,7 @@ namespace PLAYERTWO.PlatformerProject
 		protected virtual void Start()
 		{
 			play.onClick.AddListener(Play);
-		}
+			play.interactable = true;
+        }
 	}
 }

@@ -907,23 +907,65 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 539602378330051258, guid: d6e66bcd3d2123049855d2670ef53005,
         type: 3}
+      propertyPath: levels.Array.data[0].name
+      value: tutorial
+      objectReference: {fileID: 0}
+    - target: {fileID: 539602378330051258, guid: d6e66bcd3d2123049855d2670ef53005,
+        type: 3}
       propertyPath: levels.Array.data[1].name
+      value: STROK MAP
+      objectReference: {fileID: 0}
+    - target: {fileID: 539602378330051258, guid: d6e66bcd3d2123049855d2670ef53005,
+        type: 3}
+      propertyPath: levels.Array.data[2].name
       value: Level_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 539602378330051258, guid: d6e66bcd3d2123049855d2670ef53005,
+        type: 3}
+      propertyPath: levels.Array.data[0].image
+      value: 
+      objectReference: {fileID: 21300000, guid: daddc87995794e84f96b11675bc9f8f5,
+        type: 3}
+    - target: {fileID: 539602378330051258, guid: d6e66bcd3d2123049855d2670ef53005,
+        type: 3}
+      propertyPath: levels.Array.data[0].scene
+      value: "\uD29C\uD1A0\uB9AC\uC5BC"
       objectReference: {fileID: 0}
     - target: {fileID: 539602378330051258, guid: d6e66bcd3d2123049855d2670ef53005,
         type: 3}
       propertyPath: levels.Array.data[1].image
       value: 
-      objectReference: {fileID: 21300000, guid: b6c83d91877ad26418277a0d3cabbe17,
+      objectReference: {fileID: 21300000, guid: a6c088a5080f2b244a4a1d9960fdcaab,
         type: 3}
     - target: {fileID: 539602378330051258, guid: d6e66bcd3d2123049855d2670ef53005,
         type: 3}
       propertyPath: levels.Array.data[1].scene
+      value: STROKMAP2
+      objectReference: {fileID: 0}
+    - target: {fileID: 539602378330051258, guid: d6e66bcd3d2123049855d2670ef53005,
+        type: 3}
+      propertyPath: levels.Array.data[2].image
+      value: 
+      objectReference: {fileID: 21300000, guid: b6c83d91877ad26418277a0d3cabbe17,
+        type: 3}
+    - target: {fileID: 539602378330051258, guid: d6e66bcd3d2123049855d2670ef53005,
+        type: 3}
+      propertyPath: levels.Array.data[2].scene
       value: Level_1
       objectReference: {fileID: 0}
     - target: {fileID: 539602378330051258, guid: d6e66bcd3d2123049855d2670ef53005,
         type: 3}
+      propertyPath: levels.Array.data[0].description
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 539602378330051258, guid: d6e66bcd3d2123049855d2670ef53005,
+        type: 3}
       propertyPath: levels.Array.data[1].description
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 539602378330051258, guid: d6e66bcd3d2123049855d2670ef53005,
+        type: 3}
+      propertyPath: levels.Array.data[2].description
       value: Play around with the features of the asset.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
