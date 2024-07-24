@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/PLAYER TWO/Platformer Project/Examples/Scenes/Levels/Level_1.unity
     guid: a5541492ca289a848a7eb8f91220faeb
+  - enabled: 1
+    path: "Assets/PLAYER TWO/Platformer Project/Examples/Scenes/Levels/\uD29C\uD1A0\uB9AC\uC5BC.unity"
+    guid: 2cc409e36faa72c41bf20b6239276cd4
+  - enabled: 1
+    path: Assets/PLAYER TWO/Platformer Project/Examples/Scenes/Levels/STROKMAP2.unity
+    guid: 17411d790e9f55943904ad9a885c90dc
   m_configObjects: {}
